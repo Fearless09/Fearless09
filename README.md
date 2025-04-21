@@ -1,4 +1,4 @@
-# I'm Ajayi Toheeb Opeyemi, a student of Information Technology at the Federal University of Technology, Akure also a Front-End Developer.
+# I'm Ajayi Toheeb Opeyemi, a graduate of Computer Science (Information Technology option) at the Federal University of Technology, Akure also a Front-End Developer.
 
 #### I'm a Front-End Developer motivated to combine the art of design with the art of programming. My responsibilities include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. I work with UI/UX designers to bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks and works. 
 
